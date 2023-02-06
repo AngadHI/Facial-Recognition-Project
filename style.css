@@ -1,0 +1,21 @@
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dash yellowgreen;
+    }
+    
+    body {
+        color:rgb(206, 13, 13);
+        background: orange;
+    }
+    
+    .heading {
+    width: 80%;
+    font-size: 22px;
+    }
+    
+    .name_of_family, #result_family_name, #result_family_accuracy {
+        color:red;
+        }
+        
+    
